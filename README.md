@@ -3,7 +3,7 @@
   </h1>
 
   <h2 align="center">
-    Projeto criado durante a Semana OmniStack 11.0 da <a href='https://rocketseat.com.br/'>🚀 Rocketseat</a>
+    Projeto Be The Hero criado durante a Semana OmniStack 11.0 da <a href='https://rocketseat.com.br/'>🚀 Rocketseat</a>
   </h2>
 
   <h2 align="center">
