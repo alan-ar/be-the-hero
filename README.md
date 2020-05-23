@@ -20,4 +20,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📌Projeto
 
-O objetivo do projeto visa conectar ONG's que precisam de ajuda a pessoas que desejam fazer contribuições.
+Aplicação para conectar ONG's que precisam de ajuda a pessoas que desejam fazer contribuições.
