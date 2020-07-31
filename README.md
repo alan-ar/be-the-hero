@@ -1,5 +1,5 @@
 <h1 align="center">
- <img alt="Be The Hero" src="frontend/src/assets/logo.svg" />
+ <img alt="Be The Hero" src="images/bethehero.svg" />
 </h1>
 
 <h3 align="center">
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
- <img alt="Projeto" src="https://github.com/Rocketseat/semana-omnistack-11/raw/master/.github/bethehero.png" />
+ <img alt="Projeto" src="images/bethehero.png?raw=true" />
 </p>
 
 ## 📌Tecnologias
@@ -20,4 +20,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📌Projeto
 
-Aplicação para conectar ONG's que precisam de ajuda a pessoas que desejam fazer contribuições.
+Aplicação que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's que precisam de ajuda.
